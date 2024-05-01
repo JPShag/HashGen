@@ -1,6 +1,3 @@
-### README.md for MD5 Hash Generator
-
-```markdown
 # MD5 Hash Generator
 
 This MD5 Hash Generator is a Windows Forms application developed in C#. It allows users to generate MD5 hashes from text input and manage these hashes through various file operations.
